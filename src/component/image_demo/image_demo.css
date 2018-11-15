@@ -1,0 +1,7 @@
+.test_image {
+    display: inline-block;
+    width: 350px;
+    height: 200px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
