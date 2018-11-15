@@ -1,13 +1,7 @@
-# react-image-magnify Examples Project
+This project is created for demo purpose for Image functionalities [Clone This Project](https://github.com/Wishvanath/ReactImageZoom.git).
 
-## Install and Start
-```ssh
-git clone https://github.com/Wishvanath/ReactImageZoom.git
-cd react-image-magnify
-yarn
-yarn run build
-npm install
-npm start
-```
-
-If your default browser does not start automatically, open a new browser window and go to localhost:3000
+Below you will find some information on how to perform common tasks.<br>
+- Open your project folder
+- install npm dependecies first(npm install)
+- start server(npm start)
+- [Navigate URL in the browser](http://localhost:3000/)
